@@ -47,8 +47,6 @@ Model Saving using joblib
 Flask API Integration
 Browser Extension Connection
 🧪 Installation and Setup
-1. Clone the Repository
-git clone https://github.com/neelchau/Spam-mail-extension.git
 2. Install Dependencies
 3. Run Flask API
 python app.py
